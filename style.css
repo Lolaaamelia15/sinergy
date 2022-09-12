@@ -1,0 +1,11 @@
+.version-bar{
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+.version-bar a, p{
+    margin: 0 5px;
+}
